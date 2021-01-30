@@ -1,0 +1,5 @@
+name: NPCLib
+main: net.craftions.npclib.NPCLib
+version: ${project.version}
+authors:
+  - MCTzOCK
